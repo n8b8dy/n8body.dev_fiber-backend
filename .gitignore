@@ -1,0 +1,8 @@
+# dev
+.idea
+
+# production
+/build
+
+# env files
+.env
